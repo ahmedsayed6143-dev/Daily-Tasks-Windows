@@ -1,0 +1,49 @@
+{
+  "name": "daily-tasks-desktop",
+  "version": "1.0.0",
+  "description": "Daily Tasks desktop app for Windows",
+  "main": "main.js",
+  "author": "Daily Tasks",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron .",
+    "dist": "electron-builder --win nsis"
+  },
+  "devDependencies": {
+    "electron": "^35.2.0",
+    "electron-builder": "^26.0.12"
+  },
+  "build": {
+    "appId": "com.dailytasks.desktop",
+    "productName": "Daily Tasks",
+    "directories": {
+      "output": "dist"
+    },
+    "files": [
+      "index.html",
+      "main.js",
+      "package.json",
+      "build/icon.ico",
+      "build/icon.svg"
+    ],
+    "win": {
+      "target": [
+        {
+          "target": "nsis",
+          "arch": [
+            "x64"
+          ]
+        }
+      ],
+      "artifactName": "Daily-Tasks-Setup-${version}.${ext}",
+      "icon": "build/icon.ico"
+    },
+    "nsis": {
+      "oneClick": false,
+      "allowToChangeInstallationDirectory": true,
+      "createDesktopShortcut": true,
+      "createStartMenuShortcut": true,
+      "shortcutName": "Daily Tasks"
+    }
+  }
+}
