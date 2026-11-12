@@ -20,7 +20,7 @@ A clean and easy-to-use **Daily Tasks** and **To-Do List** desktop application f
 
 ### Option 2: Run from Source Code (للمطورين)
 1. Clone the repository:
-   git clone https://github.com
+   git clone https://github.com/ahmedsayed6143-dev/Daily-Tasks-Windows.git
 
 2. Navigate to the project folder:
    cd Daily-Tasks-Windows
