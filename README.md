@@ -15,7 +15,7 @@ A clean and easy-to-use **Daily Tasks** and **To-Do List** desktop application f
 ## 🚀 How to Run (طريقة التشغيل)
 
 ### Option 1: Download Ready Installer (للمستخدمين)
-1. Go to the **[Releases](https://github.com)** section on the right.
+1. Go to the **[Releases](https://github.com/ahmedsayed6143-dev/Daily-Tasks-Windows/releases/tag/v1.0.0)** section on the right.
 2. Download and run the latest installer for Windows.
 
 ### Option 2: Run from Source Code (للمطورين)
