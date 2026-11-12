@@ -15,13 +15,13 @@ A clean and easy-to-use **Daily Tasks** and **To-Do List** desktop application f
 ## 🚀 How to Run (طريقة التشغيل)
 
 ### Option 1: Download Ready Installer (للمستخدمين)
-1. Go to the **[Releases](https://github.com)** section on the right.
+1. Go to the **[Releases](https://github.com/ahmedsayed6143-dev/Daily-Tasks-Windows/releases/tag/v1.0.0)** section on the right.
 2. Download and run the latest installer for Windows.
 
 ### Option 2: Run from Source Code (للمطورين)
 1. Clone the repository:
 ```bash
-git clone https://github.com
+git clone https://github.com/ahmedsayed6143-dev/Daily-Tasks-Windows.git
 ```
 2. Navigate to the project folder:
 ```bash
@@ -37,7 +37,7 @@ npm start
 ```
 
 ## 🔗 Other Versions
-- 📱 **[Daily Tasks for Android](https://github.com)**
+- 📱 **[Daily Tasks for Android](https://github.com/ahmedsayed6143-dev/Daily-Tasks-Android)**
 
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome! Feel free to give this project a ⭐ if you found it helpful.
