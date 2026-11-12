@@ -1,4 +1,4 @@
-# Daily Tasks 📝
+# Daily Tasks for Windows 💻
 
 A clean and easy-to-use **Daily Tasks** and **To-Do List** desktop application for Windows designed to help you organize your day, manage your schedule, and stay productive.
 
@@ -19,18 +19,12 @@ A clean and easy-to-use **Daily Tasks** and **To-Do List** desktop application f
 2. Download and run the latest installer for Windows.
 
 ### Option 2: Run from Source Code (للمطورين)
-1. Clone the repository:
-   ```bash
-   git clone https://github.com
-   ```
-2. Navigate to the project folder and install dependencies:
-   ```bash
-   npm install
-   ```
-3. Start the application:
-   ```bash
-   npm start
-   ```
+1. Clone the repository: `git clone https://github.com`
+2. Navigate to the project folder and install dependencies: `npm install`
+3. Start the application: `npm start`
+
+## 🔗 Other Versions
+- 📱 **[Daily Tasks for Android](https://github.com/ahmedsayed6143-dev/Daily-Tasks-Android)**
 
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome! Feel free to give this project a ⭐ if you found it helpful.
